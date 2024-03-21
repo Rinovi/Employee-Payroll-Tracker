@@ -3,7 +3,8 @@
 ## Description
 
 This is our first module challenge at the ASU bootcamp which employed the use of Javascript. In this challenge, we were required to modify starter code in order to create a website that would allow a payroll manager to view and manage employee payroll information. The website itself contains an employee roster, with fields for 'First Name', 'Last Name', and 'Salary', as well as an 'add employees' button. The following is an image of what someone could potentially be presented with upon viewing the page. 
-![EmployeePayroll png](https://github.com/Rinovi/Employee-Payroll-Tracker/assets/160938078/9249262e-b8b3-49fb-9927-b2dc438b9ce3)
+![EmployeePayroll](https://github.com/Rinovi/Employee-Payroll-Tracker/assets/160938078/8e42b164-148e-4ba4-89e1-6d4ebf403e17)
+
 
 ## Usage
 
